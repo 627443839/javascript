@@ -3,7 +3,7 @@
 !function(){
   'use strict';
 
-  ${1}
+    ${1}
 }();
 ]]></content>
   <tabTrigger>mod</tabTrigger>

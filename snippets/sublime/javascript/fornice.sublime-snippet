@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+for(var i = ${1:arguments}.length;i--;){
+    ${2://body..}
+}
+]]></content>
+   
+    <tabTrigger>dfr</tabTrigger>
+    
+    <scope>source.js</scope>
+
+
+</snippet>
